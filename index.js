@@ -99,8 +99,20 @@ const promptquestions = () => {
     });
 }
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+// Function to write the generated markdown to a file
+function writeToFile(pageMarkdown) {
+    const timestamp = new Date().toISOString().replace(/:/g, '-'); // Get current date and time as a string
+    const filename = `README-${timestamp}.md`; // Use the timestamp in the filename
+
+    fs.writeFile(filename, pageMarkdown, error => {
+        if (error) {
+            console.log('Error writing README file:', error);
+        } else {
+            console.log(`${filename} successfully generated!`);
+        }
+    });
+}
+
 
 // TODO: Create a function to initialize app
 function init() {}
