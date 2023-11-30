@@ -68,7 +68,7 @@ ${data.description}
 ${data.installation}
 
 
-## Usage
+## How To Use
 
 ${data.usage}
 
