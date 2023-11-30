@@ -33,45 +33,66 @@ function renderLicenseSection(license) {
 // Function to generate markdown for a README file based on user input
 function generateMarkdown(data) {
   return `# ${data.title}
-    ## Badges
-    ${renderLicenseBadge(data.license)}
-  
-    ## Table of Contents
-    * [License](#license)
-    * [Description](#description)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Demo](#demo)
-    * [How to Contribute](#how-to-contribute)
-    * [Tests](#tests)
-    * [Questions?](#questions)
-  
-    ## License
-    ${renderLicenseSection(data.license)}
-    ${renderLicenseLink(data.license)}
-  
-    ## Description
-    ${data.description}
-  
-    ## Installation
-    ${data.installation}
-  
-    ## Usage
-    ${data.usage}
 
-    ## Demo
-    ${data.demo}
-  
-    ## How to Contribute
-    [Contributor Covenant](https://www.contributor-covenant.org/)  
-    ${data.contributing}
-  
-    ## Tests
-    ${data.tests}
-  
-    ## Questions?
-    ### Reach Me Here: 
-    [${data.githubUsername}](https://github.com/${data.githubUsername})`;
+
+## Badges
+
+${renderLicenseBadge(data.license)}
+
+
+## Table of Contents
+
+* [License](#license)
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Demo](#demo)
+* [How to Contribute](#how-to-contribute)
+* [Tests](#tests)
+* [Questions?](#questions)
+
+
+## License
+
+${renderLicenseSection(data.license)}
+${renderLicenseLink(data.license)}
+
+
+## Description
+
+${data.description}
+
+
+## Installation
+
+${data.installation}
+
+
+## Usage
+
+${data.usage}
+
+
+## Demo
+
+${data.demo}
+
+
+## How to Contribute
+
+[Contributor Covenant](https://www.contributor-covenant.org/)  
+${data.contributing}
+
+
+## Tests
+
+${data.tests}
+
+
+## Questions?
+### Reach Me Here: 
+
+[${data.githubUsername}](https://github.com/${data.githubUsername})`;
 }
 
 // Export the generateMarkdown function
