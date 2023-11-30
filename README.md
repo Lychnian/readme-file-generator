@@ -41,7 +41,7 @@ Features:
 You can clone this repository or download zip file at https://github.com/Lychnian/readme-file-generator
 
 
-## How To Use
+## Usage
 
 1. In your terminal navigate to the project file directory.
 2. In the command line run the command `node index`  to start the README File Generator.
@@ -62,10 +62,16 @@ I will be placing the link to this very screen recording upon completion! :)
 
 ## How to Contribute
 
-[Contributor Covenant](https://www.contributor-covenant.org/)  
+[Contributor Covenant](https://www.contributor-covenant.org/) 
+
+
+## Tests
+
+N/A
 
 
 ## Questions?
 ### Reach Me Here: 
 
 [Lychnian](https://github.com/Lychnian)
+
