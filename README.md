@@ -44,7 +44,7 @@ Technologies:
 
 You can clone this repository or download zip file at https://github.com/Lychnian/readme-file-generator
 
-For more information click the video demo link below in Demo.
+For more information click the demo video link below in Demo section.
 
 
 ## Usage
@@ -62,7 +62,40 @@ This process allows you to maintain a history of README files for different vers
 
 ## Demo
 
-I will be placing the link to this very screen recording upon completion!  :)
+Watch my YouTube README File Generator Demo at https://youtu.be/5LQGQhQHjRc
+
+
+Application and Demo Screenshots:
+
+
+![1genmarkdown](https://github.com/Lychnian/readme-file-generator/assets/140586279/f2199b0b-5657-4f10-9d09-316d57db1487)
+
+
+
+
+![2indexjs](https://github.com/Lychnian/readme-file-generator/assets/140586279/ff915f27-18ab-4f86-8d43-9da30d6b8c25)
+
+
+
+
+![3indexjs](https://github.com/Lychnian/readme-file-generator/assets/140586279/9e9fe4ca-bcf4-4146-bf8e-489963eae021)
+
+
+
+
+![4indexjs](https://github.com/Lychnian/readme-file-generator/assets/140586279/2c42fa17-3386-4ba8-9529-9a335366befc)
+
+
+
+
+![6readme](https://github.com/Lychnian/readme-file-generator/assets/140586279/7cf8287d-5ffa-40f6-8957-0bd168895824)
+
+
+
+
+![readme](https://github.com/Lychnian/readme-file-generator/assets/140586279/93dce501-3799-4a55-8f71-e4f6b8dc8c33)
+
+
 
 
 
