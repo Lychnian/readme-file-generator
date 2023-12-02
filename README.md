@@ -13,7 +13,6 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Demo](#demo)
-* 
 * [How to Contribute](#how-to-contribute)
 * [Tests](#tests)
 * [Questions?](#questions)
@@ -44,6 +43,7 @@ Technologies:
 ## Installation
 
 You can clone this repository or download zip file at https://github.com/Lychnian/readme-file-generator
+For more information click the video demo link below in Demo.
 
 
 ## Usage
@@ -59,9 +59,7 @@ The generated README(timestamped).md file is timestamped to ensure uniqueness. Y
 This process allows you to maintain a history of README files for different versions of your project and ensures that your project's documentation is always up-to-date, or simply delete them when you complete your project.
 
 
-
 ## Demo
-
 
 Click on this link to watch my YouTube video demo of my README File Generator Application: https://youtu.be/xUbzJ1rN4NQ?si=KB279oWQSktC4BqG
 
@@ -106,5 +104,6 @@ N/A
 ### Reach Me Here: 
 
 [Lychnian](https://github.com/Lychnian)
+
 
 
