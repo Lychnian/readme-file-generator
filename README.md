@@ -60,20 +60,24 @@ This process allows you to maintain a history of README files for different vers
 I will be placing the link to this very screen recording upon completion! :)
 
 
+
 ![indexjs](https://github.com/Lychnian/readme-file-generator/assets/140586279/59e142b5-c255-4af6-9f98-a86bc28ec033)
+
 
 
 ![notepad](https://github.com/Lychnian/readme-file-generator/assets/140586279/1fb58e89-985a-4dd1-9f70-95d3f22c1563)
 
 
+
 ![prompts](https://github.com/Lychnian/readme-file-generator/assets/140586279/e87d2236-128d-456e-9a24-d29c6465dd9e)
+
 
 
 ![genMark](https://github.com/Lychnian/readme-file-generator/assets/140586279/3d0caa81-69b7-4c3b-8553-d062b66e3797)
 
 
-![readme](https://github.com/Lychnian/readme-file-generator/assets/140586279/c378bd53-4c71-42c1-afa9-b512c7f1c7bf)
 
+![readme](https://github.com/Lychnian/readme-file-generator/assets/140586279/2d58cf00-a866-48da-af66-e8c8adaa94c8)
 
 
 
