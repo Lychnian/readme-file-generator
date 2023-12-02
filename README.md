@@ -38,6 +38,8 @@ Technologies:
 - JavaScript
 - Node.js
 - Inquirer.js
+- File System Module (fs)
+- Markdown
   
 
 ## Installation
@@ -66,6 +68,13 @@ Watch my YouTube README File Generator Demo at https://youtu.be/5LQGQhQHjRc
 
 
 Application and Demo Screenshots:
+
+
+
+
+![repository](https://github.com/Lychnian/readme-file-generator/assets/140586279/9054805a-1f5c-4acc-adda-a6e7947d0445)
+
+
 
 
 ![1genmarkdown](https://github.com/Lychnian/readme-file-generator/assets/140586279/f2199b0b-5657-4f10-9d09-316d57db1487)
