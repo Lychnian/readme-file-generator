@@ -13,6 +13,7 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Demo](#demo)
+* 
 * [How to Contribute](#how-to-contribute)
 * [Tests](#tests)
 * [Questions?](#questions)
@@ -34,7 +35,11 @@ Features:
 - Supports multiple license choices
 - Default settings for ease of use
 
-
+Technologies:
+- JavaScript
+- Node.js
+- Inquirer.js
+  
 
 ## Installation
 
@@ -57,7 +62,8 @@ This process allows you to maintain a history of README files for different vers
 
 ## Demo
 
-I will be placing the link to this very screen recording upon completion! :)
+
+Click on this link to watch my YouTube video demo of my README File Generator Application: https://youtu.be/xUbzJ1rN4NQ?si=KB279oWQSktC4BqG
 
 
 
@@ -65,7 +71,7 @@ I will be placing the link to this very screen recording upon completion! :)
 
 
 
-![notepad](https://github.com/Lychnian/readme-file-generator/assets/140586279/1fb58e89-985a-4dd1-9f70-95d3f22c1563)
+![3indexjs](https://github.com/Lychnian/readme-file-generator/assets/140586279/d9bf689e-9169-47d4-91d9-53339f9a354f)
 
 
 
@@ -78,6 +84,11 @@ I will be placing the link to this very screen recording upon completion! :)
 
 
 ![readme](https://github.com/Lychnian/readme-file-generator/assets/140586279/2d58cf00-a866-48da-af66-e8c8adaa94c8)
+
+
+
+![6readme](https://github.com/Lychnian/readme-file-generator/assets/140586279/fe887e71-2ebf-4315-99de-b3fcec6b9903)
+
 
 
 
@@ -95,4 +106,5 @@ N/A
 ### Reach Me Here: 
 
 [Lychnian](https://github.com/Lychnian)
+
 
