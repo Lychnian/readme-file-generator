@@ -16,7 +16,7 @@
 * [How to Contribute](#how-to-contribute)
 * [Tests](#tests)
 * [Questions?](#questions)
-* [Credits?](#credits) 
+* [Credits](#credits) 
 
 
 ## License
