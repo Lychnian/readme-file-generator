@@ -1,9 +1,11 @@
 # README FILE GENERATOR
 
 
+
 ## Badges
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 
 ## Table of Contents
@@ -19,10 +21,12 @@
 * [Credits](#credits) 
 
 
+
 ## License
 
 This project is licensed under the MIT license.
 [License Link](https://opensource.org/licenses/MIT)
+
 
 
 ## Description
@@ -41,6 +45,7 @@ Technologies:
 - Inquirer.js
 - File System Module (fs)
 - Markdown
+
   
 
 ## Installation
@@ -48,6 +53,7 @@ Technologies:
 You can clone this repository or download zip file at https://github.com/Lychnian/readme-file-generator
 
 For more information click the demo video link below in Demo section.
+
 
 
 ## Usage
@@ -63,9 +69,13 @@ The generated README(timestamped).md file is timestamped to ensure uniqueness. Y
 This process allows you to maintain a history of README files for different versions of your project and ensures that your project's documentation is always up-to-date, or simply delete them when you complete your project.
 
 
+
 ## Demo
 
 Watch my YouTube README File Generator Demo at https://youtu.be/5LQGQhQHjRc
+
+Note:  I created the README file for this project's repository during the Screencastify recording of the demo, which you can watch through the YouTube link above. Everything went smoothly!
+
 
 
 Application and Demo Screenshots:
@@ -114,9 +124,11 @@ Application and Demo Screenshots:
 [Contributor Covenant](https://www.contributor-covenant.org/) 
 
 
+
 ## Tests
 
 N/A
+
 
 
 ## Questions?
@@ -126,7 +138,9 @@ N/A
 
 
 
+
 ## Credits
 
 Timestamped Files (Index.js Lines 8-9) https://stackoverflow.com/questions/52553774/timestamp-in-file-name, 
 https://help.hcltechsw.com/dom_designer/9.0.1/reference/r_wpdr_standard_date_toisostring_r.html
+
