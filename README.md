@@ -141,6 +141,8 @@ N/A
 
 ## Credits
 
+Andrew Read, TA: License Badges (generateMarkdown.js Lines 5,6,8)
+
 Timestamped Files (Index.js Lines 8-9) https://stackoverflow.com/questions/52553774/timestamp-in-file-name, 
 https://help.hcltechsw.com/dom_designer/9.0.1/reference/r_wpdr_standard_date_toisostring_r.html
 
